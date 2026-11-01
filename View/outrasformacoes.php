@@ -48,7 +48,7 @@
             <h2 class="w3-text-cyan">Outras Formações</h2>
 
             <!-- Formulário contendo os campos exigidos -->
-            <form action="" method="post" class="w3-row w3-light-grey w3-text-blue w3-margin" style="width:70%;">
+            <form action="/Controller/Navegacao.php" method="post" class="w3-row w3-light-grey w3-text-blue w3-margin" style="width:70%;">
                 <div class="w3-row w3-center">
                     <div class="w3-col" style="width:50%;">
                         Data Inicial
