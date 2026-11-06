@@ -86,7 +86,7 @@
                         <i class="w3-xxlarge fa fa-align-justify"></i>
                     </div>
                     <div class="w3-rest">
-                        <input class="w3-input w3-border w3-round-large" name="txtDescEP" type="text" placeholder="Descrição: Ex.: Curso de Inglês - W3.CSS">
+                        <input class="w3-input w3-border w3-round-large" name="txtDescOF" type="text" placeholder="Descrição: Ex.: Curso de Inglês - W3.CSS">
                     </div>
                 </div>
 

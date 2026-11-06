@@ -98,7 +98,7 @@
                                         }
                                         else
                                         {
-                                            include_once '../View/operacaoNaoRealizda.php';
+                                            include_once '../View/operacaoNaoRealizada.php';
                                         }
                                     
                                     }

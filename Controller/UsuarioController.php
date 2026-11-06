@@ -51,7 +51,6 @@ class UsuarioController{
     }
      public function gerarLista()
     {
-        require_once '../Model/Administrador.php';
         require_once '../Model/Usuario.php';
         $u = new Usuario();
         
